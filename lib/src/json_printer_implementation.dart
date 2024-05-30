@@ -12,6 +12,8 @@ class JsonPrinter implements IJsonPrinter {
   @override
   void printJson(Map<String, dynamic> json) {
     String formattedJson = formatter.format(json); // Format the JSON
+    print("==========================================\n");
     print(formattedJson); // Print the formatted JSON
+    print("==========================================");
   }
 }
