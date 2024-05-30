@@ -37,7 +37,7 @@ void main() {
       "city": "Anytown",
       "state": "Anystate",
     },
-    "phoneNumbers": ["555-1234", "555-5678"],
+    "phoneNumbers": ["234-1234", "234-5678"],
   };
 
   IJsonFormatter formatter = JsonFormatter();  // Create an instance of JsonFormatter
