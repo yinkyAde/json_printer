@@ -18,3 +18,7 @@ All notable changes to this project will be documented in this file.
 ## [0.0.2] - 2024-05-30
 ### Added
 - Added Platform Indication
+
+## [0.0.3] - 2024-05-30
+### Added
+- Added Border and Color 
