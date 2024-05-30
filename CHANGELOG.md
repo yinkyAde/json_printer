@@ -11,3 +11,6 @@ All notable changes to this project will be documented in this file.
 - Added comments to improve code readability and maintainability.
 - Created unit tests to ensure correctness of the implementation.
 
+## [0.0.1] - 2024-05-30
+### Added
+- Added LICENCE
