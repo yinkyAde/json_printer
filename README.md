@@ -3,6 +3,9 @@
 
 A Flutter package to print JSON objects sequentially, designed with SOLID principles in mind. This package is useful for developers who need a structured and readable way to output JSON data in their Flutter applications.
 
+# Motivation
+Working with APIs in Dart often involves parsing JSON responses and inspecting data structures. Manually logging JSON data in the console can be cumbersome, requiring developers to sift through lengthy outputs. JSON Printer simplifies this process by neatly formatting JSON objects, enhancing readability and efficiency.
+
 ## Features
 
 - Print JSON objects with nested structures in a readable format.
