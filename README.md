@@ -28,7 +28,7 @@ Here is a simple example of how to use the `json_printer` package:
 import 'package:json_printer/json_printer.dart';
 
 void main() {
-  Map<String, dynamic> patientDetailsWithHospitalNumberResponse = {
+  Map<String, dynamic> patientDetailsResponse = {
     "hospitalNumber": "123456",
     "name": "John Doe",
     "age": 30,
@@ -43,7 +43,7 @@ void main() {
   IJsonFormatter formatter = JsonFormatter();  // Create an instance of JsonFormatter
   IJsonPrinter printer = JsonPrinter(formatter);  // Create an instance of JsonPrinter with the formatter
 
-  printer.printJson(patientDetailsWithHospitalNumberResponse);  // Print the JSON
+  printer.printJson(patientDetailsResponse);  // Print the JSON
 }
 ```
 
