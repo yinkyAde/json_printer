@@ -1,6 +1,6 @@
 name: json_printer
 description: "A Flutter package to print JSON objects sequentially, designed with SOLID principles in mind. This package is useful for developers who need a structured and readable way to output JSON data in their Flutter applications."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/yinkyAde/json_printer
 
 environment:

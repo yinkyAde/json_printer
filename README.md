@@ -18,7 +18,7 @@ To start using the `json_printer` package, add it to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  json_printer: ^0.0.1
+  json_printer: ^x.x.x # Replace x.x.x with the latest version
 ```
 
 Then run `flutter pub get` to install the package.
