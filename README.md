@@ -57,12 +57,4 @@ Contributions are welcome! If you find a bug or have a feature request, please f
 
 ### Issues
 
-Please file any issues, bugs, or feature requests in the [GitHub issues](https://github.com/your-repo/json_printer/issues).
-
-### Contact
-
-You can contact the package authors through the GitHub repository or by email at [your-email@example.com](mailto:your-email@example.com).
-
----
-
-Feel free to customize the placeholder links and email addresses with your actual repository URL and contact information. This README provides a clear overview of the package, its features, usage, and additional information for users and contributors.
+Please file any issues, bugs, or feature requests in the [GitHub issues](https://github.com/yinkyAde/json_printer).
