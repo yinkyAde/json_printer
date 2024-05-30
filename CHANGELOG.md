@@ -1,3 +1,13 @@
-## 0.0.1
+# JSON Printer Changelog
 
-* TODO: Describe initial release.
+All notable changes to this project will be documented in this file.
+
+
+## [0.0.1] - 2024-05-30
+### Added
+- Initial release of the JSON Printer package.
+- Implemented JSON printing functionality.
+- Separated concerns into abstract classes and concrete implementations.
+- Added comments to improve code readability and maintainability.
+- Created unit tests to ensure correctness of the implementation.
+
