@@ -49,7 +49,7 @@ void main() {
 
 ## Additional Information
 
-For more information about this package, including how to contribute, file issues, or get in touch with the author, please visit the [GitHub repository](https://github.com/your-repo/json_printer).
+For more information about this package, including how to contribute, file issues, or get in touch with the author, please visit the [GitHub repository](https://github.com/yinkyAde/json_printer).
 
 ### Contributing
 
