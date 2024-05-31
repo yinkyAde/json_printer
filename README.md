@@ -11,6 +11,7 @@ Working with APIs in Dart often involves parsing JSON responses and inspecting d
 - Print JSON objects with nested structures in a readable format.
 - Handles nested objects and arrays gracefully.
 - Follows SOLID principles for maintainability and extensibility.
+- Borders and color to enhance readability and distinctiveness when logged.
 
 ## Getting Started
 
